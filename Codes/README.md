@@ -5,18 +5,27 @@ This folder contains all Python source files — both LeetCode solutions and sta
 ## Contents
 
 ### LeetCode Solutions
+
+#### Easy
 | File | Problem |
 |------|---------|
 | [1.TwoSum.py](1.TwoSum.py) | #1 – Two Sum |
 | [9.Palindrome.py](9.Palindrome.py) | #9 – Palindrome Number |
 | [14.Longest Common Prefix.py](14.Longest%20Common%20Prefix.py) | #14 – Longest Common Prefix |
 | [20.ValidParenthesis.py](20.ValidParenthesis.py) | #20 – Valid Parentheses |
-| [22.GenerateParenthesis.py](22.GenerateParenthesis.py) | #22 – Generate Parentheses |
 | [26.RemoveDuplicatesFromSortedArray.py](26.RemoveDuplicatesFromSortedArray.py) | #26 – Remove Duplicates from Sorted Array |
 | [27.RemoveElement.py](27.RemoveElement.py) | #27 – Remove Element |
 | [28.FindtheIndexoftheFirstOccurrenceinString.py](28.FindtheIndexoftheFirstOccurrenceinString.py) | #28 – Find the Index of the First Occurrence in a String |
 
-### Python Exercises
+#### Medium
+| File | Problem |
+|------|---------|
+| [22.GenerateParenthesis.py](22.GenerateParenthesis.py) | #22 – Generate Parentheses |
+
+#### Hard
+No hard LeetCode problems are listed currently.
+
+### Lab Practice
 | File | Description |
 |------|-------------|
 | [Arith.py](Arith.py) | Arithmetic Operations |
@@ -48,4 +57,3 @@ This folder contains all Python source files — both LeetCode solutions and sta
 - A. Hariharasudhan
 - B.E. Computer Science & Engineering, Mepco Schlenk Engineering College
 - Reach me: sudanayyappan_bcs28@mepcoeng.ac.in
-

@@ -87,20 +87,31 @@ ITT-2026/
 
 ### LeetCode Problems
 
+#### Easy
+
 | # | Problem | Code | Documentation |
 |---|---------|------|---------------|
 | 1 | Two Sum | [1.TwoSum.py](Codes/1.TwoSum.py) · [1.TwoSum(Hashmap).py](Codes/1.TwoSum(Hashmap).py) | [📄 Docs](Documentation/python/Two%20Sum.md) |
 | 9 | Palindrome Number | [9.Palindrome.py](Codes/9.Palindrome.py) | [📄 Docs](Documentation/python/Palindrome.md) |
 | 14 | Longest Common Prefix | [14.Longest Common Prefix.py](Codes/14.Longest%20Common%20Prefix.py) | [📄 Docs](Documentation/python/Longest%20common%20prefix.md) |
 | 20 | Valid Parentheses | [20.ValidParenthesis.py](Codes/20.ValidParenthesis.py) | [📄 Docs](Documentation/python/Valid%20parentheses.md) |
-| 22 | Generate Parentheses | [22.GenerateParenthesis.py](Codes/22.GenerateParenthesis.py) | [📄 Docs](Documentation/python/Generate%20Parentheses.md) |
 | 26 | Remove Duplicates from Sorted Array | [26.RemoveDuplicatesFromSortedArray.py](Codes/26.RemoveDuplicatesFromSortedArray.py) | [📄 Docs](Documentation/python/Remove%20Duplicates%20From%20Sorted%20Array.md) |
 | 27 | Remove Element | [27.RemoveElement.py](Codes/27.RemoveElement.py) | [📄 Docs](Documentation/python/Remove%20an%20element.md) |
 | 28 | Find the Index of the First Occurrence in a String | [28.FindtheIndexoftheFirstOccurrenceinString.py](Codes/28.FindtheIndexoftheFirstOccurrenceinString.py) | [📄 Docs](Documentation/python/Index%20of%20the%20first%20occurences%20in%20a%20string.md) |
 
+#### Medium
+
+| # | Problem | Code | Documentation |
+|---|---------|------|---------------|
+| 22 | Generate Parentheses | [22.GenerateParenthesis.py](Codes/22.GenerateParenthesis.py) | [📄 Docs](Documentation/python/Generate%20Parentheses.md) |
+
+#### Hard
+
+No hard LeetCode problems are listed currently.
+
 ---
 
-###  Python Exercises
+### Lab Practice
 
 | Program | Code | Documentation |
 |---------|------|---------------|
@@ -138,4 +149,3 @@ Mepco Schlenk Engineering College, Sivakasi
 - Currently working on: Vehicle rental and booking system
 - Ask me about: Python, C++, Java, Oracle
 - 📧 Reach me: sudanayyappan_bcs28@mepcoeng.ac.in
-
